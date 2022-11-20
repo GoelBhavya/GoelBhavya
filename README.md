@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoelBhavya
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, SQL and PL/SQL
 - 📫 How to reach me bhavya2000goel@gmail.com
 
 <!---
